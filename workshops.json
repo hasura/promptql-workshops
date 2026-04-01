@@ -1,0 +1,26 @@
+{
+  "description": "PromptQL Workshop Schedule",
+  "note": "This file is consumed by the PromptQL app to display upcoming workshop information. All dates are in ISO 8601 format (UTC).",
+  "workshops": [
+    {
+      "id": "workshop-2026-04-15",
+      "date": "2026-04-15",
+      "time": "10:00 AM PT",
+      "title": "Getting Started with PromptQL",
+      "description": "Learn the fundamentals of PromptQL - connecting data sources, writing queries, and building your first AI-powered workflows.",
+      "duration_minutes": 60,
+      "registration_url": "https://hasura.io/events/promptql-workshop-2026-04-15",
+      "presenter": "PromptQL Team"
+    },
+    {
+      "id": "workshop-2026-04-22",
+      "date": "2026-04-22",
+      "time": "10:00 AM PT",
+      "title": "Advanced PromptQL: Building Custom Integrations",
+      "description": "Deep dive into custom integrations, saved programs, and automation workflows.",
+      "duration_minutes": 90,
+      "registration_url": "https://hasura.io/events/promptql-workshop-2026-04-22",
+      "presenter": "PromptQL Team"
+    }
+  ]
+}
